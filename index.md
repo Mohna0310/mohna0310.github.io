@@ -43,14 +43,14 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 <span style="font-size:1.35em;">
 <b>Sep '22</b>: Selected to represent Iowa State University for the prestigious and competitive Grace Hopper Celebration.<br>
 <br> <b>Aug '22</b>: Awarded Student Travel Award for SIGKDD 2022.<br>
-<br> <b>Dec '22</b>: I served as Review member at HCOMP 2022.<br>
-<br> <b>Dec '22</b>: I served as Review member at EMNLP 2022.<br>
+<br> <b>July '22</b>: I served as Review member at HCOMP 2022.<br>
+<br> <b>July '22</b>: I served as Review member at EMNLP 2022.<br>
 <br> <b>May '22</b>: Our paper on "Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction" has been accepted at SIGKDD 2022.<br>
 <br> <b>May '22</b>: Joined Epsilon as a PhD intern.<br>
 <br> <b>April '22</b>: Defended my research proficiency on Weakly Supervised Review Analysis Based on Task Correlation.<br>
 <br> <b>March '22</b>: Awarded 1st position for 6th Annual Research Competition at Iowa State University.<br>
 <br> <b>March '22</b>: Our paper on "[Re] Domain Generalization using Causal Matching" has been accepted at ML Reproducibility Challenge 2021 (Fall Edition).<br>
-<br> <b>Dec '22</b>: Served as Review member at PAKDD 2021.<br>
+<br> <b>Dec '21</b>: Served as Review member at PAKDD 2021.<br>
 <br> <b>Sep '21</b>: Our paper on "Does local pruning offer task-specific models to learn effectively?" has been accepted at RANLP 2021.<br>
 <br> <b>Aug '21</b>: Present SRC paper "Does reusing pre-trained NLP model propagate bugs?", ESEC/FSE, 2021.<br>
 <br> <b>June '21</b>: Our paper on "Does reusing pre-trained NLP model propagate bugs?" has been accepted at ESEC/FSE, SRC 2021.<br>
@@ -58,6 +58,3 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 <br> <b>Aug '20</b>: Joined Ph.D. program at the Department of Computer Science at Iowa State University.<br></span>
 
 
-## Personal
-<span style="font-size:1.35em;">
-I am originally from Chandannagar, which is one of the two French colonies in India. I love to play with Lego and console games. Recently completed Witcher 3: Wild Hunt and now playing Horizon Zero Dawn.</span>
