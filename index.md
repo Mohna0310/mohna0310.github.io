@@ -41,32 +41,23 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
-<b>* June '22</b>: Joined IBM Research as a research staff member.<br> 
-<br> <b>* June '22</b>: Defended my dissertation on decomposing deep learning models into modules.<br>
-<br> <b>* May '22</b>: Attended and presented our works at ICSE'22.<br>
-<br> <b>* Aug '21</b>: Our work on resolving merge conflict has been featured at Microsoft Research <a
-href="https://www.microsoft.com/en-us/research/blog/safe-program-merges-at-scale-a-grand-challenge-for-program-repair-research/?OCID=msr_blog_Programinglanguages_tw"><span style='color:#954F72'>blog</span></a>.<br>
-<br> <b>* July '21</b>: Invited to present our ICSE'21 paper on merge conflict at UC Davis Computer Science seminar.<br>
-<br> <b>* June '21</b>: Serving as a PC member of <a
-href="https://2021.splashcon.org/track/splash-2021-Artifacts"><span style='color:#954F72'>OOPSLA Artifact</span></a>.<br>
-<br> <b>* May '21</b>: Presented our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" at ICSE 2021.<br>
-<br> <b>* May '21</b>: Awarded <b>"Research Excellence Award"</b> by Department of Computer Science, Iowa State University for the works done during the Ph.D. program.<br>
-<br> <b>* May '21</b>: Passed Ph.D. preliminary examination.<br>
-<br> <b>* Apr '21</b>: Presented my research talk on "Characterizing Deep Neural Networks and Merge Conflicts" at Microsoft PROSE.<br>
-<br> <b>* Jan '21</b>: Awarded SIGSOFT CAPS Funding Award for ICSE 2021 registration.<br>
-<br> <b>* Jan '21</b>: Our paper on "Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis" has been accepted at ICSE 2021.<br>
-<br> <b>* Jan '21</b>: I will be serving as Shadow PC member at MSR 2021.<br>
-<br> <b>* Nov '20</b>: ACM  SIGSOFT Distinguished paper award at ESEC/FSE for "On Decomposing Deep Neural Networks into Modules".<br>
-<br> <b>* Nov '20</b>: Present our paper "On Decomposing Deep Neural Networks into Modules" at ESEC/FSE, 2020.<br>
-<br> <b>* May '20</b>: Join Microsoft Research as a research intern.<br>
-<br> <b>* May '20</b>: Won 2nd place at the ACM Student Research Competition, ICSE, 2020.<br>
-<br> <b>* May '20</b>: Present SRC paper "Does Fixing Bug Increase Robustness in Deep Learning?", ICSE, 2020.<br>
-<br> <b>* Dec '19</b>: Our paper on "On Decomposing Deep Neural Networks into Modules" has been accepted at ESEC/FSE, 2020<br>
-<br> <b>* May '20</b>: Won Robert Stewart Early Research Recognition Award, Iowa State University, 2020.<br>
-<br> <b>* Dec '19</b>: Our paper on "Repairing Deep Neural Networks: Fix Patterns and Challenges" has been accepted at ICSE, 2020<br>
-<br> <b>* Aug '19</b>: Present our paper on "A Comprehensive Study on Deep Learning Bug Characteristics" at ESEC/FSE, 2019, Estonia, Tallinn<br>
-<br> <b>* May '19</b>: Our paper on "A Comprehensive Study on Deep Learning Bug Characteristics" has been accepted at ESEC/FSE, 2019<br>
-<br> <b>* Aug '18</b>: Join Ph.D. program at the Department of Computer Science at Iowa State University<br></span>
+<br> <b>Sep '22</b>: Selected to represent Iowa State University for the prestigious and competitive Grace Hopper Celebration.<br>
+<br> <b>Aug '22</b>: Awarded Student Travel Award for SIGKDD 2022.<br>
+<br> <b>Dec '22</b>: I will be serving as Review member at HCOMP 2022.<br>
+<br> <b>Dec '22</b>: I will be serving as Review member at EMNLP 2022.<br>
+<br> <b>May '22</b>: Our paper on "Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction" has been accepted at SIGKDD 2022.<br>
+<br> <b>May '22</b>: Join Epsilon as a PhD intern.<br>
+<br> <b>April '22</b>: Defended my research proficiency on Weakly Supervised Review Analysis Based on Task Correlation.<br>
+<br> <b>March '22</b>: Awarded 1st position for 6th Annual Research Competition at Iowa State University.<br>
+<br> <b>March '22</b>: Our paper on "[Re] Domain Generalization using Causal Matching" has been accepted at ML Reproducibility Challenge 2021 (Fall Edition).<br>
+<br> <b>Dec '22</b>: Served as Review member at PAKDD 2021.<br>
+<br> <b>Sep '21</b>: Our paper on "Does local pruning offer task-specific models to learn effectively?" has been accepted at RANLP 2021.<br>
+<br> <b>Aug '21</b>: Present SRC paper "Does reusing pre-trained NLP model propagate bugs?", ESEC/FSE, 2021.<br>
+<br> <b>June '21</b>: Our paper on "Does reusing pre-trained NLP model propagate bugs?" has been accepted at ESEC/FSE, SRC 2021.<br>
+<br> <b>May '21</b>: Join Epsilon as a PhD intern.<br>
+<br> <b>Aug '20</b>: Join Ph.D. program at the Department of Computer Science at Iowa State University.<br></span>
+
+
 ## Personal
 <span style="font-size:1.35em;">
 I am originally from Chandannagar, which is one of the two French colonies in India. I love to play with Lego and console games. Recently completed Witcher 3: Wild Hunt and now playing Horizon Zero Dawn.</span>
