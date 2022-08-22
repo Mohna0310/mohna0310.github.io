@@ -10,7 +10,7 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am a third year Ph.D. student at the Department of Computer Science at Iowa State University. I have worked as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Data Mining and Knowledge Lab</a>. My supervisor is <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. Also, I have worked as a PhD intern at Epsilon in Decision Science team </a>. My area of interest is Review Analysis, True label inference, Data Mining, Natural Language Processing, Machine Learning.</span>
+I am a third year Ph.D. student at the Department of Computer Science at Iowa State University. I have worked as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Data Mining and Knowledge Lab</a>. My supervisor is <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. Also, I have worked as a PhD intern at Epsilon in Decision Science team. My area of interest is Review Analysis, True label inference, Data Mining, Natural Language Processing, Machine Learning.</span>
 
 
 ## Publications
