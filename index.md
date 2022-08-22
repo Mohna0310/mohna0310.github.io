@@ -41,7 +41,7 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
-<br> <b>Sep '22</b>: Selected to represent Iowa State University for the prestigious and competitive Grace Hopper Celebration.<br>
+<b>Sep '22</b>: Selected to represent Iowa State University for the prestigious and competitive Grace Hopper Celebration.<br>
 <br> <b>Aug '22</b>: Awarded Student Travel Award for SIGKDD 2022.<br>
 <br> <b>Dec '22</b>: I will be serving as Review member at HCOMP 2022.<br>
 <br> <b>Dec '22</b>: I will be serving as Review member at EMNLP 2022.<br>
