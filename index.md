@@ -22,14 +22,25 @@ Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction,
 href="https://doi.org/10.1145/3534678.3539386"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
 
+<span style="font-size:1.35em;">
 <b><font color="red">2021</font></b><br>
 Richard D Jiles, <b>Mohna Chakraborty</b>.
 [Re] Domain Generalization using Causal Matching,
 <b>ML Reproducibility Challenge, 2021</b>: [<a 
 href="https://openreview.net/forum?id=r43elaGmhCY"><span style='color:#954F72'>paper</span></a>]
 <br><br>
+Abhishek Kumar Mishra<b>Mohna Chakraborty</b>. Does local pruning offer task-specific models to learn effectively?,
+<b>Proceedings of the Student Research Workshop Associated with RANLP, 2021</b>: [<a
+href="https://aclanthology.org/2021.ranlp-srw.17"><span style='color:#954F72'>paper</span></a>]
+<br><br>
+<b>Mohna Chakraborty</b>. Does reusing pre-trained NLP model propagate bugs?,
+<b>ESEC/FSE, 2021</b>: [<a
+href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper</span></a>]
+<br><br>
 
 
+
+<span style="font-size:1.35em;">
 <b><font color="red">2020</font></b><br>
 <b>*</b> <b>Rangeet Pan</b>, Hridesh Rajan.
 On Decomposing a Deep Neural Network into Modules,
