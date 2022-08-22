@@ -12,25 +12,28 @@
 <span style="font-size:1.35em;">
 I am a second year Ph.D. student at the Department of Computer Science at Iowa State University. I have worked as a Research Assistant at the <a href="http://design.cs.iastate.edu/"> Laboratory of Software Design</a>. My supervisor was <a href="http://web.cs.iastate.edu/~hridesh/">Dr. Hridesh Rajan</a>. Also, I have worked as a research intern at Microsoft Research in <a href="https://www.microsoft.com/en-us/research/group/saint-group/"> Software Analysis and Intelligence (SAINTes) team </a> with <a href="https://www.microsoft.com/en-us/research/people/nachin/">Dr. Nachi Nagappan</a>, <a href="http://vuminhle.com/">Dr. Vu Le</a>, <a href="https://www.microsoft.com/en-us/research/people/sumitg/">Dr. Sumit Gulwani</a>, and <a href="https://www.microsoft.com/en-us/research/people/shuvendu/">Dr. Shuvendu Lahiri</a>. My area of expertise is Deep Neural Network, Modularity, and Program Analysis.</span>
 
+[Re] Domain Generalization using Causal Matching. Richard D Jiles, Mohna Chakraborty,
+(https://openreview.net/forum?id=r43elaGmhCY)
+ML Reproducibility Challenge 2021
+
 ## Publications
 <span style="font-size:1.35em;">
 <b><font color="red">2022</font></b><br>
- <b>*</b> <b>Rangeet Pan</b> and Hridesh Rajan.
-Decomposing Convolutional Neural Networks into Reusable and Replaceable Modules,
-<b>ICSE, 2022</b>
- <br><br> 
-  <b>*</b> Giang Nguyen, Md.Johirul Islam, <b>Rangeet Pan</b>, and Hridesh Rajan.
-Manas: Mining Software Repositories to Assist AutoML,
-<b>ICSE, 2022</b>
-  <br><br>
+ <b>*</b> <b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
+Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction,
+<b>SIGKDD, 2022</b> [<a 
+href="https://doi.org/10.1145/3534678.3539386"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
+
+
 <b><font color="red">2021</font></b><br>
-  <b>*</b> <b>Rangeet Pan</b>, Vu Le, Nachiappan Nagappan, Sumit Gulwani, Shuvendhu Lahiri, Mike Kaufman.
-Can Program Synthesis be Used to Learn Merge Conflict Resolutions? An Empirical Analysis,
-<b>ICSE, 2021</b>: [<a
-href="https://arxiv.org/pdf/2103.02004.pdf"><span style='color:#954F72'>pre-print</span></a>] [<a
-href="https://www.youtube.com/watch?v=Udsf9k20vbE"><span style='color:#954F72'>presentation video</span></a>] [<a
-href="https://www.microsoft.com/en-us/research/blog/safe-program-merges-at-scale-a-grand-challenge-for-program-repair-research/?OCID=msr_blog_Programinglanguages_tw"><span style='color:#954F72'>blog</span></a>]
+  <b>*</b> Richard D Jiles, <b>Mohna Chakraborty</b>.
+[Re] Domain Generalization using Causal Matching,
+<b>ML Reproducibility Challenge, 2021</b>: [<a 
+href="https://openreview.net/forum?id=r43elaGmhCY"><span style='color:#954F72'>paper</span></a>]
 <br><br>
+
+
 <b><font color="red">2020</font></b><br>
 <b>*</b> <b>Rangeet Pan</b>, Hridesh Rajan.
 On Decomposing a Deep Neural Network into Modules,
