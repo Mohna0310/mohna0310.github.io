@@ -10,7 +10,7 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am a third year Ph.D. student at the Department of Computer Science at Iowa State University. I am working as a Research Assistant at the <a href="https://sites.google.com/iastate.edu/qili/publications"> Data Mining and Knowledge Lab</a>. My supervisor is <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. Also, I have worked as a Data Science intern at The Home Depot, Epsilon and as Data Analytics intern at Delaware North. My research interests are in the domain of information extraction using weak supervision, review analysis,
+I am a fourth year Ph.D. student at the Department of Computer Science at Iowa State University. I am working as a Research Assistant at the <a href="https://sites.google.com/iastate.edu/qili/publications"> Data Mining and Knowledge Lab</a>. My supervisor is <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. Also, I have worked as a Data Science intern at The Home Depot, Epsilon and as Data Analytics intern at Delaware North. My research interests are in the domain of information extraction using weak supervision, review analysis,
 data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences and workshops like ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like RANLP'2021.</span>
 
 
@@ -61,6 +61,7 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 <br> <b>May '23</b>: Our paper on "Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts" has been accepted at ACL 2023.<br>
 <br> <b>March '23</b>: Awarded 2nd position for 7th Annual Research Competition at Iowa State University.<br>
 <b>Sep '22</b>: Selected to represent Iowa State University for the prestigious and competitive Grace Hopper Celebration.<br>
+<br> <b>Aug '21</b>: Presented our paper and poster "Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction", at the SIGKDD, 2022 conference in Washington D.C.<br>
 <br> <b>Aug '22</b>: Awarded Student Travel Award for SIGKDD 2022.<br>
 <br> <b>July '22</b>: I served as Review member at HCOMP 2022.<br>
 <br> <b>July '22</b>: I served as Review member at EMNLP 2022.<br>
