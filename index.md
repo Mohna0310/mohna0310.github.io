@@ -23,9 +23,6 @@ Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts,
 <b>ACL, 2023</b> [<a 
 href="https://aclanthology.org/2023.acl-long.313"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
-
-<span style="font-size:1.35em;">
-<b><font color="red">2023</font></b><br>
 Adithya Kulkarni, <b>Mohna Chakraborty</b> and Qi Li.
 Optimal Budget Allocation for Crowdsourcing Labels for Graphs,
 <b>UAI, 2023</b> [<a 
