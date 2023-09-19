@@ -11,7 +11,7 @@
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
 I am a third year Ph.D. student at the Department of Computer Science at Iowa State University. I am working as a Research Assistant at the <a href="https://sites.google.com/iastate.edu/qili/publications"> Data Mining and Knowledge Lab</a>. My supervisor is <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. Also, I have worked as a Data Science intern at The Home Depot, Epsilon and as Data Analytics intern at Delaware North. My research interests are in the domain of information extraction using weak supervision, review analysis,
-data mining, natural language processing, and machine learning. My work focuses on solving the problem of the scarcity of labeled textual data, developing approaches that can facilitate the annotation process with minimal human effort and be implemented in daily-use systems without expensive hardware promoting accessibility to everyone. Through my research, I have contributed several key methods in top conferences and workshops. I have six published works in top conferences like ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like RANLP'2021.</span>
+data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences and workshops like ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like RANLP'2021.</span>
 
 
 ## Publications
@@ -25,7 +25,7 @@ href="https://aclanthology.org/2023.acl-long.313"><span style='color:#954F72'>pa
 <br><br> 
 
 <span style="font-size:1.35em;">
-<b><font color="red">2022</font></b><br>
+<b><font color="red">2023</font></b><br>
 Adithya Kulkarni, <b>Mohna Chakraborty</b> and Qi Li.
 Optimal Budget Allocation for Crowdsourcing Labels for Graphs,
 <b>UAI, 2023</b> [<a 
