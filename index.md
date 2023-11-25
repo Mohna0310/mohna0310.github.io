@@ -56,9 +56,10 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 ## Recent News!
 <span style="font-size:1.35em;">
 <br> <b>Nov '23</b>: I served as Review member at EACL 2023.<br>
-<br> <b>Oct '23</b>: Awarded Best Research Poster Award for my paper “Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts” at MINK WIC (Missouri, Iowa, Nebraska, Kansas Women in Computing) Conference<br>
+<br> <b>Oct '23</b>: Awarded Best Research Poster Award for my paper “Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts” at MINK WIC (Missouri, Iowa, Nebraska, Kansas Women in Computing) Conference.<br>
 <br> <b>Oct '23</b>: Selected to represent Iowa State University at MINK WIC (An ACM celebration of Women in Computing) Conference.<br>
 <br> <b>Oct '23</b>: Defended my Preliminary Exam on Analysis of Textual-based Reviews with Minimal Supervision.<br>
+<br> <b>Oct '23</b>: Serving as a mentor for an undergraduate student at Iowa State University for the McNair program.<br>
 <br> <b>Oct '23</b>: I have taught a graduate-level course at Iowa State University as a guest lecturer for COM S 571X (Responsible AI: Risk Management in Data Driven Discovery.) to teach the students about representation learning, transformer models, and future research directions to develop trustworthy machine learning methods for natural language processing.<br>
 <br> <b>May '23</b>: Joined The Home Depot as a Data Science intern.<br>
 <br> <b>May '23</b>: Our paper on "Optimal Budget Allocation for Crowdsourcing Labels for Graphs" has been accepted at UAI 2023.<br>
