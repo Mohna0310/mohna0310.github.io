@@ -10,7 +10,7 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am a fourth year Ph.D. student at the Department of Computer Science at Iowa State University. I am working as a Research Assistant at the <a href="https://sites.google.com/iastate.edu/qili/publications"> Data Mining and Knowledge Lab</a>. My supervisor is <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. Also, I have worked as a Data Science intern at The Home Depot, Epsilon and as Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences and workshops like ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like RANLP'2021.</span>
+I am a post-doctoral fellow at The University of Michigan under the guidance of <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a> and <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a>. I finished my Ph.D. student in Computer Science at Iowa State University under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. Also, I have worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences and workshops like ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like RANLP'2021.</span>
 
 
 ## Publications
@@ -55,6 +55,8 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
+<br> <b>Sep '24</b>: I joined The University of Michigan as a Post-doctoral fellow (MIDAS) under the guidance of Prof. Lu Wang and Prof. David Jurgens.<br>
+<br> <b>July '24</b>: Defended my Ph.D. Final Oral Exam on Analysis of Textual-based Reviews with Minimal Supervision.<br>
 <br> <b>Nov '23</b>: I served as Review member at EACL 2023.<br>
 <br> <b>Oct '23</b>: Awarded Best Research Poster Award for my paper “Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts” at MINK WIC (Missouri, Iowa, Nebraska, Kansas Women in Computing) Conference.<br>
 <br> <b>Oct '23</b>: Selected to represent Iowa State University at MINK WIC (An ACM celebration of Women in Computing) Conference.<br>
