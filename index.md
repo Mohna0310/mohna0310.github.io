@@ -10,7 +10,7 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am a post-doctoral fellow at The University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a> and <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a>. Prior to my postdoc, I finished my Ph.D. in Computer Science from Iowa State University under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. Also, I have worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences and workshops like ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like RANLP'2021.</span>
+I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. Prior to my postdoc, I finished my Ph.D. in Computer Science from Iowa State University. I was working as a Research Assistant in the Data Mining and Knowledge Lab under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences and workshops like ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like RANLP'2021.</span>
 
 
 ## Publications
@@ -55,7 +55,7 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
-<br> <b>Sep '24</b>: I joined The University of Michigan as a Post-doctoral fellow (MIDAS) under the guidance of Prof. Lu Wang and Prof. David Jurgens.<br>
+<br> <b>Sep '24</b>: I joined The University of Michigan as a Post-doctoral fellow (MIDAS) under the guidance of Prof. David Jurgens and Prof. Lu Wang.<br>
 <br> <b>July '24</b>: Defended my Ph.D. Final Oral Exam on Analysis of Textual-based Reviews with Minimal Supervision.<br>
 <br> <b>Nov '23</b>: I served as Review member at EACL 2023.<br>
 <br> <b>Oct '23</b>: Awarded Best Research Poster Award for my paper “Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts” at MINK WIC (Missouri, Iowa, Nebraska, Kansas Women in Computing) Conference.<br>
@@ -74,10 +74,10 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 <br> <b>July '22</b>: I served as Review member at EMNLP 2022.<br>
 <br> <b>May '22</b>: Our paper on "Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction" has been accepted at SIGKDD 2022.<br>
 <br> <b>May '22</b>: Joined Epsilon as a PhD intern.<br>
-<br> <b>April '22</b>: Defended my research proficiency on Weakly Supervised Review Analysis Based on Task Correlation.<br>
+<br> <b>April '22</b>: Defended my Research Proficiency Exam on Weakly Supervised Review Analysis Based on Task Correlation.<br>
 <br> <b>March '22</b>: Awarded 1st position for 6th Annual Research Competition at Iowa State University.<br>
 <br> <b>March '22</b>: Our paper on "[Re] Domain Generalization using Causal Matching" has been accepted at ML Reproducibility Challenge 2021 (Fall Edition).<br>
-<br> <b>Dec '21</b>: Served as Review member at PAKDD 2021.<br>
+<br> <b>Dec '21</b>: I served as Review member at PAKDD 2021.<br>
 <br> <b>Sep '21</b>: Our paper on "Does local pruning offer task-specific models to learn effectively?" has been accepted at RANLP 2021.<br>
 <br> <b>Aug '21</b>: Present SRC paper "Does reusing pre-trained NLP model propagate bugs?", ESEC/FSE, 2021.<br>
 <br> <b>June '21</b>: Our paper on "Does reusing pre-trained NLP model propagate bugs?" has been accepted at ESEC/FSE, SRC 2021.<br>
