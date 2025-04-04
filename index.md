@@ -10,7 +10,7 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University. I have worked as a Research Assistant in the Data Mining and Knowledge Lab under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences and workshops like ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like RANLP'2021.</span>
+I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University. I have worked as a Research Assistant in the Data Mining and Knowledge Lab under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like PAKDD' 2025, SIAM' 2025, ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like ICLR' 2025, WWW' 2025, PAKDD' 2025, RANLP'2021.</span>
 
 
 ## Publications
@@ -55,31 +55,42 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
-<br> <b>Sep '24</b>: I joined The University of Michigan as a Post-doctoral fellow (MIDAS) under the guidance of Prof. David Jurgens and Prof. Lu Wang.<br>
+<br> <b>March '25</b>: Visited University of Bonn and HumanCLAIM Workshop at Gottingen as part of DAAD AInet fellowship.<br>
+<br> <b>March '25</b>: Our paper on "Beyond Single Parsers: An Empirical Analysis of Dependency Parse Tree Aggregation." has been accepted at Research and Applications of Foundation Models for Data Mining and Affective Computing (RAFDA), PAKDD 25.<br>
+<br> <b>March '25</b>: Selected for the Data and AI Intensive Research with Rigor and Reproducibility (DAIR3) with full scholarship.<br>
+<br> <b>March '25</b>: Our paper on "From Pseudo-Code to Source Code: A Self-Supervised Search Approach." has been accepted at Deep Learning for Code (DL4C) Workshop, ICLR 25.<br>
+<br> <b>March '25</b>: Serving as a PC member at ICLR 2025.<br>
+<br> <b>Jan '25</b>: Our paper on "Modeling Data Diversity for Joint Instance and Verbalizer Selection in Cold-Start Scenarios." has been accepted at Pacific-Asia Conference on Knowledge Discovery and Data Mining, PAKDD 2025.<br>
+<br> <b>Jan '25</b>: Our paper on "Empirical Evaluation of Prompting Strategies for Fact Verification Tasks." has been accepted at PromptEng Workshop at the ACM WebConf, WWW 25.<br>
+<br> <b>Jan '25</b>: Our paper on "Reducing Performance Gap between Commercial and Open-Source LLMs." has been accepted at SIAM 2025.<br>
+<br> <b>Dec '24</b>: I will be serving as a PC member at AAAI 2025.<br>
+<br> <b>Dec '24</b>: I will be serving as  a PC member at WWW 2025.<br>
+<br> <b>Oct '24</b>: Selected for the prestigious DAAD AInet fellowship. <br>
+<br> <b>Oct '24</b>: I will be serving as a PC member at SDM 2025.<br>
+<br> <b>Sep '24</b>: Joined The University of Michigan as a Post-doctoral fellow (MIDAS) under the guidance of Prof. David Jurgens and Prof. Lu Wang.<br>
 <br> <b>July '24</b>: Defended my Ph.D. Final Oral Exam on Analysis of Textual-based Reviews with Minimal Supervision.<br>
-<br> <b>Nov '23</b>: I served as Review member at EACL 2023.<br>
+<br> <b>Nov '23</b>: Served as Review member at EACL 2023.<br>
 <br> <b>Oct '23</b>: Awarded Best Research Poster Award for my paper “Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts” at MINK WIC (Missouri, Iowa, Nebraska, Kansas Women in Computing) Conference.<br>
 <br> <b>Oct '23</b>: Selected to represent Iowa State University at MINK WIC (An ACM celebration of Women in Computing) Conference.<br>
 <br> <b>Oct '23</b>: Defended my Preliminary Exam on Analysis of Textual-based Reviews with Minimal Supervision.<br>
-<br> <b>Oct '23</b>: Serving as a mentor for an undergraduate student at Iowa State University for the McNair program.<br>
-<br> <b>Oct '23</b>: I have taught a graduate-level course at Iowa State University as a guest lecturer for COM S 571X (Responsible AI: Risk Management in Data Driven Discovery.) to teach the students about representation learning, transformer models, and future research directions to develop trustworthy machine learning methods for natural language processing.<br>
+<br> <b>Oct '23</b>: Invited to teach a graduate-level course at Iowa State University as a guest lecturer for COM S 571X (Responsible AI: Risk Management in Data Driven Discovery.).<br>
 <br> <b>May '23</b>: Joined The Home Depot as a Data Science intern.<br>
 <br> <b>May '23</b>: Our paper on "Optimal Budget Allocation for Crowdsourcing Labels for Graphs" has been accepted at UAI 2023.<br>
 <br> <b>May '23</b>: Our paper on "Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts" has been accepted at ACL 2023.<br>
 <br> <b>March '23</b>: Awarded 2nd position for 7th Annual Research Competition at Iowa State University.<br>
-<b>Sep '22</b>: Selected to represent Iowa State University for the prestigious and competitive Grace Hopper Celebration.<br>
+<br> <b>Sep '22</b>: Selected to represent Iowa State University for the prestigious and competitive Grace Hopper Celebration.<br>
 <br> <b>Aug '21</b>: Presented our paper and poster "Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction", at the SIGKDD, 2022 conference in Washington D.C.<br>
 <br> <b>Aug '22</b>: Awarded Student Travel Award for SIGKDD 2022.<br>
-<br> <b>July '22</b>: I served as Review member at HCOMP 2022.<br>
-<br> <b>July '22</b>: I served as Review member at EMNLP 2022.<br>
+<br> <b>July '22</b>: Served as Review member at HCOMP 2022.<br>
+<br> <b>July '22</b>: Served as Review member at EMNLP 2022.<br>
 <br> <b>May '22</b>: Our paper on "Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction" has been accepted at SIGKDD 2022.<br>
 <br> <b>May '22</b>: Joined Epsilon as a PhD intern.<br>
 <br> <b>April '22</b>: Defended my Research Proficiency Exam on Weakly Supervised Review Analysis Based on Task Correlation.<br>
 <br> <b>March '22</b>: Awarded 1st position for 6th Annual Research Competition at Iowa State University.<br>
 <br> <b>March '22</b>: Our paper on "[Re] Domain Generalization using Causal Matching" has been accepted at ML Reproducibility Challenge 2021 (Fall Edition).<br>
-<br> <b>Dec '21</b>: I served as Review member at PAKDD 2021.<br>
+<br> <b>Dec '21</b>: Served as Review member at PAKDD 2021.<br>
 <br> <b>Sep '21</b>: Our paper on "Does local pruning offer task-specific models to learn effectively?" has been accepted at RANLP 2021.<br>
-<br> <b>Aug '21</b>: Present SRC paper "Does reusing pre-trained NLP model propagate bugs?", ESEC/FSE, 2021.<br>
+<br> <b>Aug '21</b>: Presented SRC paper "Does reusing pre-trained NLP model propagate bugs?", ESEC/FSE, 2021.<br>
 <br> <b>June '21</b>: Our paper on "Does reusing pre-trained NLP model propagate bugs?" has been accepted at ESEC/FSE, SRC 2021.<br>
 <br> <b>May '21</b>: Joined Epsilon as a PhD intern.<br>
 <br> <b>Aug '20</b>: Joined Ph.D. program at the Department of Computer Science at Iowa State University.<br></span>
