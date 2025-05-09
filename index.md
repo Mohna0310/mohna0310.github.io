@@ -10,10 +10,23 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University. I have worked as a Research Assistant in the Data Mining and Knowledge Lab under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like PAKDD' 2025, SIAM' 2025, ACL' 2023, UAI' 2023, SIGKDD' 2022, ESEC/FSE'2021 and workshops like ICLR' 2025, WWW' 2025, PAKDD' 2025, RANLP'2021.</span>
+I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University. I have worked as a Research Assistant in the Data Mining and Knowledge Lab under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like ACL, UAI, SIGKDD, PAKDD, SIAM, ESEC/FSE and workshops like ICLR, WWW, PAKDD, RANLP.</span>
 
 
 ## Publications
+
+<span style="font-size:1.35em;">
+<b><font color="red">2025</font></b><br>
+Adithya Kulkarni*, <b>Mohna Chakraborty*</b>.
+Blue Sky: Reducing Performance Gap between Commercial and Open-Source LLMs,
+<b>SIAM, 2025</b> [<a 
+href="https://epubs.siam.org/doi/10.1137/1.9781611978520.34"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
+Adithya Kulkarni, <b>Mohna Chakraborty</b>, Yonas Sium, Sai Charishma Valluri, Wei Le and Qi Li.
+FROM PSEUDO-CODE TO SOURCE CODE: A SELFSUPERVISED SEARCH APPROACH,
+<b>ICLR Workshop, 2025</b> [<a 
+href="https://openreview.net/pdf?id=s0et2A33uM"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
 
 <span style="font-size:1.35em;">
 <b><font color="red">2023</font></b><br>
@@ -55,6 +68,8 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
+<br> <b>May '25</b>: Our paper on "Budget Allocation Exploiting Label Correlation between Instances" has been accepted at UAI 2025.<br>
+<br> <b>May '25</b>: Our paper on "Reducing Performance Gap between Commercial and Open-Source LLMs" has been has been awarded the third Place Best Vision Paper at the Blue Sky Track, SDM Conference 2025.<br>
 <br> <b>March '25</b>: Visited University of Bonn and HumanCLAIM Workshop at Gottingen as part of DAAD AInet fellowship.<br>
 <br> <b>March '25</b>: Our paper on "Beyond Single Parsers: An Empirical Analysis of Dependency Parse Tree Aggregation." has been accepted at Research and Applications of Foundation Models for Data Mining and Affective Computing (RAFDA), PAKDD 25.<br>
 <br> <b>March '25</b>: Selected for the Data and AI Intensive Research with Rigor and Reproducibility (DAIR3) with full scholarship.<br>
