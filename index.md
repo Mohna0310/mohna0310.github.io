@@ -68,10 +68,7 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
-<<<<<<< HEAD
 <br> <b>May '25</b>: Our paper on "Is Large Language Model Performance on Reasoning Tasks Impacted by Different Ways Questions Are Asked?" has been accepted at ACL Findings 2025.<br>
-=======
->>>>>>> 49ff84310e60a36ba2af540ca7cef244ebf6adb9
 <br> <b>May '25</b>: Our paper on "Budget Allocation Exploiting Label Correlation between Instances" has been accepted at UAI 2025.<br>
 <br> <b>May '25</b>: Our paper on "Reducing Performance Gap between Commercial and Open-Source LLMs" has been has been awarded the third Place Best Vision Paper at the Blue Sky Track, SDM Conference 2025.<br>
 <br> <b>March '25</b>: Visited University of Bonn and HumanCLAIM Workshop at Gottingen as part of DAAD AInet fellowship.<br>
