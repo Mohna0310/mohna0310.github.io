@@ -73,7 +73,7 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
-<br> <b>May '25</b>: Our paper on "Self-Imputation and Cross-Variable Learning Improve Water Quality Prediction with Sparse Data" has been accepted at ICML Workshop on Foundation Models for Structured Data, 2025.<br>
+<br> <b>June '25</b>: Our paper on "Self-Imputation and Cross-Variable Learning Improve Water Quality Prediction with Sparse Data" has been accepted at ICML Workshop on Foundation Models for Structured Data, 2025.<br>
 <br> <b>May '25</b>: Our paper on "Is Large Language Model Performance on Reasoning Tasks Impacted by Different Ways Questions Are Asked?" has been accepted at ACL Findings 2025.<br>
 <br> <b>May '25</b>: Visited Jackson Medical School as part of Data and AI Intensive Research with Rigor and Reproducibility (DAIR3) program at Jackson, Mississippi.<br>
 <br> <b>May '25</b>: Our paper on "Budget Allocation Exploiting Label Correlation between Instances" has been accepted at UAI 2025.<br>
