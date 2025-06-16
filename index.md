@@ -10,13 +10,18 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University. I have worked as a Research Assistant in the Data Mining and Knowledge Lab under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like ACL, UAI, SIGKDD, PAKDD, SIAM, ESEC/FSE and workshops like ICLR, WWW, PAKDD, RANLP.</span>
+I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University. I have worked as a Research Assistant in the Data Mining and Knowledge Lab under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like ACL, UAI, SIGKDD, PAKDD, SIAM, ESEC/FSE and workshops like ICLR, ICML, WWW, PAKDD, RANLP.</span>
 
 
 ## Publications
 
 <span style="font-size:1.35em;">
 <b><font color="red">2025</font></b><br>
+<b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
+Empirical Evaluation of Prompting Strategies for Fact Verification Tasks,
+<b>WWW, 2025</b> [<a 
+href="https://dl.acm.org/doi/abs/10.1145/3701716.3717815"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
 Adithya Kulkarni*, <b>Mohna Chakraborty*</b>.
 Blue Sky: Reducing Performance Gap between Commercial and Open-Source LLMs,
 <b>SIAM, 2025</b> [<a 
@@ -68,7 +73,9 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
+<br> <b>May '25</b>: Our paper on "Self-Imputation and Cross-Variable Learning Improve Water Quality Prediction with Sparse Data" has been accepted at ICML Workshop on Foundation Models for Structured Data, 2025.<br>
 <br> <b>May '25</b>: Our paper on "Is Large Language Model Performance on Reasoning Tasks Impacted by Different Ways Questions Are Asked?" has been accepted at ACL Findings 2025.<br>
+<br> <b>May '25</b>: Visited Jackson Medical School as part of Data and AI Intensive Research with Rigor and Reproducibility (DAIR3) program at Jackson, Mississippi.<br>
 <br> <b>May '25</b>: Our paper on "Budget Allocation Exploiting Label Correlation between Instances" has been accepted at UAI 2025.<br>
 <br> <b>May '25</b>: Our paper on "Reducing Performance Gap between Commercial and Open-Source LLMs" has been has been awarded the third Place Best Vision Paper at the Blue Sky Track, SDM Conference 2025.<br>
 <br> <b>March '25</b>: Visited University of Bonn and HumanCLAIM Workshop at Gottingen as part of DAAD AInet fellowship.<br>
