@@ -21,19 +21,16 @@ Modeling Data Diversity for Joint Instance and Verbalizer Selection in Cold-Star
 <b>PAKDD, 2025</b> [<a 
 href="https://link.springer.com/chapter/10.1007/978-981-96-8170-9_36"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
-
 <b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
 Empirical Evaluation of Prompting Strategies for Fact Verification Tasks,
 <b>WWW, 2025</b> [<a 
 href="https://dl.acm.org/doi/abs/10.1145/3701716.3717815"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
-
 Adithya Kulkarni*, <b>Mohna Chakraborty*</b>.
 Blue Sky: Reducing Performance Gap between Commercial and Open-Source LLMs,
 <b>SIAM, 2025</b> [<a 
 href="https://epubs.siam.org/doi/10.1137/1.9781611978520.34"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
-
 Adithya Kulkarni*, <b>Mohna Chakraborty*</b>, Yonas Sium*, Sai Charishma Valluri, Wei Le and Qi Li.
 FROM PSEUDO-CODE TO SOURCE CODE: A SELFSUPERVISED SEARCH APPROACH,
 <b>ICLR Workshop, 2025</b> [<a 
@@ -47,7 +44,6 @@ Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts,
 <b>ACL, 2023</b> [<a 
 href="https://aclanthology.org/2023.acl-long.313"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
-
 Adithya Kulkarni, <b>Mohna Chakraborty</b> and Qi Li.
 Optimal Budget Allocation for Crowdsourcing Labels for Graphs,
 <b>UAI, 2023</b> [<a 
@@ -69,12 +65,10 @@ Richard D Jiles, <b>Mohna Chakraborty</b>.
 <b>ML Reproducibility Challenge, 2021</b>: [<a 
 href="https://openreview.net/forum?id=r43elaGmhCY"><span style='color:#954F72'>paper</span></a>]
 <br><br>
-
 Abhishek Kumar Mishra*, <b>Mohna Chakraborty*</b>. Does local pruning offer task-specific models to learn effectively?,
 <b>Proceedings of the Student Research Workshop Associated with RANLP, 2021</b>: [<a
 href="https://aclanthology.org/2021.ranlp-srw.17"><span style='color:#954F72'>paper</span></a>]
 <br><br>
-
 <b>Mohna Chakraborty</b>. Does reusing pre-trained NLP model propagate bugs?,
 <b>ESEC/FSE, 2021</b>: [<a
 href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper</span></a>]
