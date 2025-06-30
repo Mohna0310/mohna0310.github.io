@@ -15,9 +15,7 @@ I am a post-doctoral fellow at the University of Michigan (Michigan Institute fo
 ## Publications 
 
 <span style="font-size:1.35em;">
-
 <b><font color="red">2025</font></b><br>
-
 <b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
 Modeling Data Diversity for Joint Instance and Verbalizer Selection in Cold-Start Scenarios,
 <b>PAKDD, 2025</b> [<a 
@@ -43,9 +41,7 @@ href="https://openreview.net/pdf?id=s0et2A33uM"><span style='color:#954F72'>pape
 <br><br> 
 
 <span style="font-size:1.35em;">
-
 <b><font color="red">2023</font></b><br>
-
 <b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
 Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts,
 <b>ACL, 2023</b> [<a 
@@ -59,9 +55,7 @@ href="https://proceedings.mlr.press/v216/kulkarni23a.html"><span style='color:#9
 <br><br> 
 
 <span style="font-size:1.35em;">
-
 <b><font color="red">2022</font></b><br>
-
 <b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
 Open-Domain Aspect-Opinion Co-Mining with Double-Layer Span Extraction,
 <b>SIGKDD, 2022</b> [<a 
@@ -69,9 +63,7 @@ href="https://doi.org/10.1145/3534678.3539386"><span style='color:#954F72'>paper
 <br><br> 
 
 <span style="font-size:1.35em;">
-
 <b><font color="red">2021</font></b><br>
-
 Richard D Jiles, <b>Mohna Chakraborty</b>.
 [Re] Domain Generalization using Causal Matching,
 <b>ML Reproducibility Challenge, 2021</b>: [<a 
