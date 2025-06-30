@@ -1,4 +1,4 @@
-<!-- Global site tag (gtag.js) - Google Analytics -->
+ <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148953677-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -10,7 +10,11 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
+<<<<<<< HEAD
 I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like ACL, UAI, SIGKDD, PAKDD, SIAM, ESEC/FSE, journal like TKDD and workshops like ICLR, ICML, WWW, PAKDD, RANLP.</span>
+=======
+I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University. I have worked as a Research Assistant in the Data Mining and Knowledge Lab under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like ACL, UAI, SIGKDD, PAKDD, SIAM, ESEC/FSE, journal like TKDD and workshops like ICLR, ICML, WWW, PAKDD, RANLP.</span>
+>>>>>>> d16cd9508ca1a59b82f377457cfe4689ee4a9413
 
 
 ## Publications 
@@ -24,8 +28,12 @@ Modeling Data Diversity for Joint Instance and Verbalizer Selection in Cold-Star
 <b>PAKDD, 2025</b> [<a 
 href="https://link.springer.com/chapter/10.1007/978-981-96-8170-9_36"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
+<<<<<<< HEAD
 
 <b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
+=======
+<b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
+>>>>>>> d16cd9508ca1a59b82f377457cfe4689ee4a9413
 Empirical Evaluation of Prompting Strategies for Fact Verification Tasks,
 <b>WWW, 2025</b> [<a 
 href="https://dl.acm.org/doi/abs/10.1145/3701716.3717815"><span style='color:#954F72'>paper</span></a>]
