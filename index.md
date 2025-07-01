@@ -23,17 +23,17 @@ href="https://link.springer.com/chapter/10.1007/978-981-96-8170-9_36"><span styl
 <br><br> 
 <b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
 Empirical Evaluation of Prompting Strategies for Fact Verification Tasks,
-<b>WWW, 2025</b> [<a 
+<b>SIAM, 2025</b> [<a 
 href="https://dl.acm.org/doi/abs/10.1145/3701716.3717815"><span style='color:#954F72'>paper</span></a>]
-<br><br> 
+<br><br>
 Adithya Kulkarni*, <b>Mohna Chakraborty*</b>.
 Blue Sky: Reducing Performance Gap between Commercial and Open-Source LLMs,
-<b>SIAM, 2025</b> [<a 
+<b>WWW, 2025</b> [<a 
 href="https://epubs.siam.org/doi/10.1137/1.9781611978520.34"><span style='color:#954F72'>paper</span></a>]
-<br><br> 
+<br><br>
 Adithya Kulkarni*, <b>Mohna Chakraborty*</b>, Yonas Sium*, Sai Charishma Valluri, Wei Le and Qi Li.
 FROM PSEUDO-CODE TO SOURCE CODE: A SELFSUPERVISED SEARCH APPROACH,
-<b>ICLR Workshop, 2025</b> [<a 
+<b>ICLR Workshop, 2025</b> [<a
 href="https://openreview.net/pdf?id=s0et2A33uM"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
 
