@@ -16,12 +16,12 @@ I am a post-doctoral fellow at the University of Michigan (Michigan Institute fo
 
 <span style="font-size:1.35em;">
 <b><font color="red">2025</font></b><br>
-<b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
+<b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
 Modeling Data Diversity for Joint Instance and Verbalizer Selection in Cold-Start Scenarios,
 <b>PAKDD, 2025</b> [<a 
 href="https://link.springer.com/chapter/10.1007/978-981-96-8170-9_36"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
-<b>Mohna Chakraborty</b> , Adithya Kulkarni, and Qi Li.
+<b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
 Empirical Evaluation of Prompting Strategies for Fact Verification Tasks,
 <b>WWW, 2025</b> [<a 
 href="https://dl.acm.org/doi/abs/10.1145/3701716.3717815"><span style='color:#954F72'>paper</span></a>]
