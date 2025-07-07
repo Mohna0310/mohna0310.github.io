@@ -16,19 +16,34 @@ I am a post-doctoral fellow at the University of Michigan (Michigan Institute fo
 
 <span style="font-size:1.35em;">
 <b><font color="red">2025</font></b><br>
+Seok_Hwan Song, <b>Mohna Chakraborty</b>, Qi Li, and Wallapak Tavanapong.
+Is Large Language Model Performance on Reasoning Tasks Impacted by Different Ways Questions Are Asked?,
+<b>ACL Findings, 2025</b> [<a 
+href="https://par.nsf.gov/biblio/10610679"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
+Adithya Kulkarni, <b>Mohna Chakraborty</b>, Sihong Xie, and Qi Li.
+Budget Allocation Exploiting Label Correlation between Instances,
+<b>UAI, 2025</b> [<a 
+href="https://openreview.net/forum?id=7ZwBqhMSyD"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
 <b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
 Modeling Data Diversity for Joint Instance and Verbalizer Selection in Cold-Start Scenarios,
 <b>PAKDD, 2025</b> [<a 
 href="https://link.springer.com/chapter/10.1007/978-981-96-8170-9_36"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
+Adithya Kulkarni, <b>Mohna Chakraborty</b>, Oliver Eulenstein, and Qi Li.
+Beyond Single Parsers: An Empirical Analysis of Dependency Parse Tree Aggregation,
+<b>PAKDD, 2025</b> [<a 
+href="https://link.springer.com/chapter/10.1007/978-981-96-8197-6_27"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
 <b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
 Empirical Evaluation of Prompting Strategies for Fact Verification Tasks,
-<b>SIAM, 2025</b> [<a 
+<b>WWW, 2025</b> [<a 
 href="https://dl.acm.org/doi/abs/10.1145/3701716.3717815"><span style='color:#954F72'>paper</span></a>]
 <br><br>
 Adithya Kulkarni, <b>Mohna Chakraborty</b>.
 Blue Sky: Reducing Performance Gap between Commercial and Open-Source LLMs,
-<b>WWW, 2025</b> [<a 
+<b>SIAM, 2025</b> [<a 
 href="https://epubs.siam.org/doi/10.1137/1.9781611978520.34"><span style='color:#954F72'>paper</span></a>]
 <br><br>
 Adithya Kulkarni, <b>Mohna Chakraborty</b>, Yonas Sium, Sai Charishma Valluri, Wei Le and Qi Li.
@@ -44,7 +59,7 @@ Zero-shot Approach to Overcome Perturbation Sensitivity of Prompts,
 <b>ACL, 2023</b> [<a 
 href="https://aclanthology.org/2023.acl-long.313"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
-Adithya Kulkarni, <b>Mohna Chakraborty</b> and Qi Li.
+Adithya Kulkarni, <b>Mohna Chakraborty</b>, Sihong Xie, and Qi Li.
 Optimal Budget Allocation for Crowdsourcing Labels for Graphs,
 <b>UAI, 2023</b> [<a 
 href="https://proceedings.mlr.press/v216/kulkarni23a.html"><span style='color:#954F72'>paper</span></a>]
