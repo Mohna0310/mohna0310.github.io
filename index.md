@@ -16,6 +16,16 @@ I am a post-doctoral fellow at the University of Michigan (Michigan Institute fo
 
 <span style="font-size:1.35em;">
 <b><font color="red">2025</font></b><br>
+<b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
+Weakly Supervised Open-Domain Aspect-Based Sentiment Analysis,
+<b>ACM Transactions on Knowledge Discovery from Data, 2025</b> [<a 
+href="https://dl.acm.org/doi/pdf/10.1145/3747849"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
+Xiaofeng Liu, Xiaobo Xia, Xuechen Zhang, <b>Mohna Chakraborty</b>, Xiyuan Chang, Kuai Fang, William S Currie, Samet Oymak
+Self-Imputation and Cross-Variable Learning Improve Water Quality Prediction with Sparse Data,
+<b>ICML Workshop on Foundation Models for Structured Data, 2025</b> [<a 
+href="https://openreview.net/pdf?id=g89MQB5jqh"><span style='color:#954F72'>paper</span></a>]
+<br><br>
 Seok_Hwan Song, <b>Mohna Chakraborty</b>, Qi Li, and Wallapak Tavanapong.
 Is Large Language Model Performance on Reasoning Tasks Impacted by Different Ways Questions Are Asked?,
 <b>ACL Findings, 2025</b> [<a 
