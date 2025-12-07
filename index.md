@@ -15,12 +15,15 @@ I am a post-doctoral fellow at the University of Michigan (Michigan Institute fo
 ## Publications 
 
 <span style="font-size:1.35em;">
-<b><font color="red">2025</font></b><br>
-<b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
+<b><font color="red">2026</font></b><br>
+Adit Desai, Sudipta Roy, and <b>Mohna Chakraborty</b>.
 How Reasoning Influences Intersectional Biases in Vision Language Models,
 <b>AAAI, 2026</b> [<a 
 href="https://arxiv.org/abs/2511.06005"><span style='color:#954F72'>paper</span></a>]
-<br><br> 
+<br><br>
+
+<span style="font-size:1.35em;">
+<b><font color="red">2025</font></b><br> 
 <b>Mohna Chakraborty</b>, Lu Wang, and David Jurgens.
 Structured Moral Reasoning in Language Models: A Value Grounded Evaluation Framework,
 <b>EMNLP, 2025</b> [<a 
