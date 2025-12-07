@@ -10,15 +10,25 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like ACL, EMNLP, UAI, SIGKDD, PAKDD, SIAM, ESEC/FSE, journal like TKDD and workshops like ICLR, ICML, WWW, PAKDD, RANLP.</span>
+I am a post-doctoral fellow at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I finished my Ph.D. in Computer Science from Iowa State University under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. I have also worked as a Data Science intern at The Home Depot, Epsilon, and as a Data Analytics intern at Delaware North. My research interests are in the domain of data mining, natural language processing, and machine learning. Through my research, I have contributed several key methods in top conferences like ACL, EMNLP, AAAI, UAI, SIGKDD, PAKDD, SIAM, ESEC/FSE, journal like TKDD and workshops like ICLR, ICML, WWW, PAKDD, RANLP.</span>
 
 ## Publications 
 
 <span style="font-size:1.35em;">
 <b><font color="red">2025</font></b><br>
 <b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
+How Reasoning Influences Intersectional Biases in Vision Language Models,
+<b>AAAI, 2026</b> [<a 
+href="https://arxiv.org/abs/2511.06005"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
+<b>Mohna Chakraborty</b>, Lu Wang, and David Jurgens.
+Structured Moral Reasoning in Language Models: A Value Grounded Evaluation Framework,
+<b>EMNLP, 2025</b> [<a 
+href="https://arxiv.org/abs/2506.14948"><span style='color:#954F72'>paper</span></a>]
+<br><br> 
+<b>Mohna Chakraborty</b>, Adithya Kulkarni, and Qi Li.
 Weakly Supervised Open-Domain Aspect-Based Sentiment Analysis,
-<b>ACM Transactions on Knowledge Discovery from Data, 2025</b> [<a 
+<b>ACM TKDD, 2025</b> [<a 
 href="https://dl.acm.org/doi/pdf/10.1145/3747849"><span style='color:#954F72'>paper</span></a>]
 <br><br> 
 Xiaofeng Liu, Xiaobo Xia, Xuechen Zhang, <b>Mohna Chakraborty</b>, Xiyuan Chang, Kuai Fang, William S Currie, Samet Oymak
@@ -102,6 +112,7 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 
 ## Recent News!
 <span style="font-size:1.35em;">
+<br> <b>Nov '25</b>: Our paper on "How Reasoning Influences Intersectional Biases in Vision Language Models" has been accepted at Association for the Advancement of Artificial Intelligence (AAAI), 2026.<br>
 <br> <b>Sep '25</b>: Served as a PC member at AAAI, 2026 and AAAI-26 SAPP.<br>
 <br> <b>Sep '25</b>: Served as a PC member at ICWSM 2026.<br>
 <br> <b>Sep '25</b>: Our paper on "Structured Moral Reasoning in Language Models: A Value-Grounded Evaluation Framework" has been accepted at Empirical Methods in Natural Language Processing (EMNLP), 2025.<br>
