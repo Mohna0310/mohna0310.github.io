@@ -10,7 +10,7 @@
 
 ## Welcome to Mohna Chakraborty's homepage
 <span style="font-size:1.35em;">
-I am an Assistant Professor at Jio Institute, where my research spans Data Mining, Natural Language Processing (NLP), and Machine Learning (ML). At Jio Institute, I lead the Language, Knowledge, and Reasoning Lab. The lab’s mission is to move beyond sheer model scale by redesigning representations to be more interpretable, efficient, and transferable. We aim to build modular, updatable corpora that can evolve without requiring full model retraining, enabling more transparent and controllable reasoning. Through this, our goal is to reduce common failure modes, support reliable decision-making in high-stakes domains, and ultimately build greater trust in AI systems. 
+I am an Assistant Professor at Jio Institute, where my research spans across Data Mining, Natural Language Processing (NLP), and Machine Learning (ML). At Jio Institute, I lead the Language, Knowledge, and Reasoning Lab. The lab’s mission is to move beyond sheer model scale by redesigning representations to be more interpretable, efficient, and transferable. We aim to build modular, updatable corpora that can evolve without requiring full model retraining, enabling more transparent and controllable reasoning.
 <br><br>
 Prior to this, I finished my post-doctoral fellowship at the University of Michigan (Michigan Institute for Data Science) under the guidance of <a href="https://jurgens.people.si.umich.edu/">Dr. David Jurgens</a> and <a href="https://web.eecs.umich.edu/~wangluxy/index.html">Dr. Lu Wang</a>. I earned my Ph.D. in Computer Science from Iowa State University under my advisor <a href="https://sites.google.com/iastate.edu/qili/">Dr. Qi Li</a>. 
 <br><br>
