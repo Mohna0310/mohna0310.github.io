@@ -127,7 +127,7 @@ href="https://doi.org/10.1145/3468264.3473494"><span style='color:#954F72'>paper
 ## Recent News!
 <span style="font-size:1.35em;">
 <br> <b>Jan '26</b>: Our paper on "Evaluating Large Language Models on Solved and Unsolved Problems in Graph Theory: Implications for Computing Education." has been accepted at CCSC Southwest Region Conference, 2026.<br>
-<br> <b>Jan '25</b>: Served as a PC member at NEJLT, 2026.<br>
+<br> <b>Jan '26</b>: Served as a PC member at NEJLT, and UAI 2026.<br>
 <br> <b>Nov '25</b>: Our paper on "How Reasoning Influences Intersectional Biases in Vision Language Models" has been accepted at Association for the Advancement of Artificial Intelligence (AAAI), 2026.<br>
 <br> <b>Sep '25</b>: Served as a PC member at AAAI, 2026 and AAAI-26 SAPP.<br>
 <br> <b>Sep '25</b>: Served as a PC member at ICWSM 2026.<br>
